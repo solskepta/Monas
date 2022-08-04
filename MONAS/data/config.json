@@ -1,0 +1,7 @@
+{
+    "settings": {
+        "webhook": "https://discord.com/api/webhooks/1004775784487075840/t3QzmHG68kM47o3gV-8S30o3xVK20f1_3D99xWR7joXSX3LNpn1JPlJAUm5xkxm4gdmc",
+        "catchall": "yahoo.co.uk",
+        "tasks_per_profile": "2"
+    }
+}
